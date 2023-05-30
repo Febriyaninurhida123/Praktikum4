@@ -12,7 +12,7 @@ soal :
 
 ![Image](ss/ss25.png)
 
-![Image](ss/ss25.png)
+![Image](ss/ss26.png)
 
 
 ## membuat table terlebih dahulu
